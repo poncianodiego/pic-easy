@@ -3,11 +3,11 @@ A quick front end snippet for nice looking, user friendly profile pictures. Simp
 
 Live preview: https://codepen.io/ocanodiego/pen/ayYeeN
 
-###### Dependencies:
+#### Dependencies:
 
   * **font-awesome**
 
-###### Installation:
+#### Installation:
 
 Just copy and paste the snippet into your html and css respectively
 Instructions:
