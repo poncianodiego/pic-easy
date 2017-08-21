@@ -15,12 +15,14 @@ Installation:
   Instructions:
   If you don't want a circular image just remove the pic-circle class
   Select your size with the following classes:
-
+  
+  ```
   pic-xs
   pic-small
   pic-medium
   pic-large
   pic-xl
+  ```
 
 Or feel free to edit as you like for colors and size, I added sizes so you can easily display the picture at different places across an entire application, in which you often display this kind of sizes.
 
