@@ -7,7 +7,7 @@ https://codepen.io/ocanodiego/pen/ayYeeN
 
 Dependencies:
 
-  font-awesome
+  * **font-awesome**
 
 Installation:
 
