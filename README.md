@@ -10,7 +10,9 @@ Live preview: https://codepen.io/ocanodiego/pen/ayYeeN
 #### Installation:
 
 Just copy and paste the snippet into your html and css respectively
-Instructions:
+
+#### Instructions:
+
 If you don't want a circular image just remove the pic-circle class
 Select your size with the following classes:
   
