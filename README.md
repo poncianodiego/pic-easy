@@ -1,20 +1,18 @@
 # pic-easy
 A quick front end snippet for nice looking, user friendly profile pictures. Simply add your desired size or make it responsive using your preferred grid system css framework.
 
+Live preview: https://codepen.io/ocanodiego/pen/ayYeeN
 
-I you are looking for some nice looking easy to set up profile picture front end. Here's a code snippet I have just created.
-https://codepen.io/ocanodiego/pen/ayYeeN
-
-Dependencies:
+######Dependencies:
 
   * **font-awesome**
 
-Installation:
+######Installation:
 
-  Just copy and paste the snippet into your html and css respectively
-  Instructions:
-  If you don't want a circular image just remove the pic-circle class
-  Select your size with the following classes:
+Just copy and paste the snippet into your html and css respectively
+Instructions:
+If you don't want a circular image just remove the pic-circle class
+Select your size with the following classes:
   
   ```
   pic-xs
